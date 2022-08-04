@@ -8,9 +8,9 @@
 
 ## Some of My Projects
 
-- 
-- 
-- 
+- <a href="https://ayaan278.github.io/Speechnotes/">Speech Notes </a> <p>A website with online Notepad that allows it users to convert any audio to text.</p>
+- <a href="https://ayaan278.github.io/Wordle/">Wordle</a> <p>A seven Letters Wordle Game is the Clone of the Official Wordle game, using React</p>
+- <a href="https://e-commerce-ayaan.web.app/">E-commerce App</a> <p>An E-commerce website built with React</p>
 - 
 
 ## Proficiencies
