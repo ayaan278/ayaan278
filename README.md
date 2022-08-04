@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=282A36&background=FFFFFF00&lines=Hi+there%2C+My+name+is+Ayaan+Ahmad;%2C+I'm+21+years+old.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=711A75&background=FFFFFF00&lines=Hi+there%2C+My+name+is+Ayaan+Ahmad;%2C+I'm+21+years+old.)](https://git.io/typing-svg)
 
 
 - Student of MMU
