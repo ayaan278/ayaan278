@@ -13,6 +13,10 @@
 - <a href="https://e-commerce-ayaan.web.app/">E-commerce App</a> <p>An E-commerce website built with React, Chakra UI, Firebase.</p>
 - <a href="https://chrome.google.com/webstore/detail/qr-code-reader/ogidhdapceihieacnnopijooamfceepd/related?hl=en&authuser=0">QR Code Reader</a> <p>A chrome extension for reading QR code from webpage.</p>
 
+## Some of My Collaborative Projects
+
+- <a href="https://itsociety.rocks/">IT Society Website </a> <p>A website for IT Society, MMU.</p>
+
 ## Proficiencies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan278&show_icons=true&theme=dracula)](https://github.com/ayaan278/github-readme-stats)
