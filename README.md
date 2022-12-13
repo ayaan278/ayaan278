@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C14053&background=FFFFFF00&lines=Hi+there%2C+My+name+is+Ayaan+Ahmad;%2C+I'm+a+Software+Engineer.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C14053&background=00000000&lines=Hi+there%2C+My+name+is+Ayaan+Ahmad;%2C+I'm+a+Software+Engineer.)](https://git.io/typing-svg)
 
 
 - Student of MMU
@@ -29,7 +29,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/ayaan-ahmad-06545614a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="#C14053" /></a>
-<a href="https://www.instagram.com/_.ayaanii._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" color="#C14053" /></a>
-<a href="https://codeforces.com/profile/Ayaanii08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="40" color="#C14053" /></a>
+<a href="https://www.linkedin.com/in/ayaan-ahmad-06545614a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="C14053" /></a>
+<a href="https://www.instagram.com/_.ayaanii._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" color="C14053" /></a>
+<a href="https://codeforces.com/profile/Ayaanii08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="40" color="C14053" /></a>
 </p>
