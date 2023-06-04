@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C14053&background=00000000&lines=Hi+there%2C+My+name+is+Ayaan+Ahmad;%2C+I'm+a+Software+Engineer.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C14053&background=00000000&lines=Hi+there%2C+My+name+is+Ahmad,+Ayaan;%2C+I'm+a+Software+Engineer.)](https://git.io/typing-svg)
 
 
 - Student of MMU
@@ -8,10 +8,12 @@
 
 ## Some of My Projects
 
-- <a href="https://ayaan278.github.io/Speechnotes/">Speech Notes </a> <p>A website with online Notepad that allows it users to convert user's audio to text.</p>
+
 - <a href="https://ayaan278.github.io/Wordle/">Wordle</a> <p>A seven Letters Wordle Game is the Clone of the Official Wordle game, using React, Chakra UI</p>
 - <a href="https://e-commerce-ayaan.web.app/">E-commerce App</a> <p>An E-commerce website built with React, Chakra UI, Firebase.</p>
 - <a href="https://chrome.google.com/webstore/detail/qr-code-reader/ogidhdapceihieacnnopijooamfceepd/related?hl=en&authuser=0">QR Code Reader</a> <p>A chrome extension for reading QR code from webpage.</p>
+- <a href="https://github.com/ayaan278/Traffic-Recognition">Traffic Light Recognition Assitance </a> <p>An Android app, built on React Native, utilizes Huawei's ModelArts and OBS to assist visually impaired users in detecting traffic lights. It received an Honorable Mention in the Huawei Cloud APAC 2022.</p>
+- <a href="https://ayaan278.github.io/Speechnotes/">Speech Notes </a> <p>A website with online Notepad that allows it users to convert user's audio to text.</p>
 
 ## Some of My Collaborative Projects
 
@@ -29,7 +31,9 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/ayaan-ahmad-06545614a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="C14053" /></a>
-<a href="https://www.instagram.com/_.ayaanii._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" color="C14053" /></a>
-<a href="https://codeforces.com/profile/Ayaanii08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="40" color="C14053" /></a>
+<a href="https://www.linkedin.com/in/ayaan-ahmad-06545614a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" backgroundColor="C14053" /></a>
+<a href="https://www.instagram.com/_.ayaanii._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" backgroundColor="C14053" /></a>
+<a href="https://codeforces.com/profile/Ayaanii08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="40" backgroundColor="C14053" /></a>
 </p>
+
+You can view my other projects on my website https://portfolio-ayaan278.vercel.app/ as well as my organization that me and my friend started which create robust and reliable solutions for your technological needs, driven by a strong desire to make a positive impact in the industry at https://github.com/RockSolidSoln.
